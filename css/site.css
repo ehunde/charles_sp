@@ -1,0 +1,70 @@
+
+body {
+  
+  
+}
+
+.maincontent {
+  background-image: url("/images/background.png");
+  background-size: cover;
+  background-attachment: fixed;  
+  background-position: center;  
+  background-repeat: no-repeat; 
+}
+
+aside {
+   background-color: white;
+   border-radius: 1em;
+}
+
+ .logorole {
+   background-color: white;
+ }
+
+ .nav-link{
+    color: #00249f;
+ }
+
+ .active {
+
+  color:rgb(25, 215, 50)
+}
+
+
+h5 {
+  color: #00249f;
+}
+
+h4 {
+  color: white;
+}
+
+hr {
+  color: darkgreen;
+  height: 4px;
+}
+ 
+
+.card-title {
+  color: #00249f;
+}
+
+.card-text {
+   color: #00249f;
+   
+}
+
+#footerhead {
+   background-color: #00249f;
+}
+
+#footertag {
+   background-color: #354fa8;
+}
+
+#contactus {
+  
+  background-color: white;
+  padding: 20px;
+  border-radius: 10%;
+}
